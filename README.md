@@ -55,7 +55,7 @@ super_board[3][3][3][3]
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/super-tic-tac-toe.git
+git clone https://github.com/adeshkamble09/super-tic-tac-toe.git
 cd super-tic-tac-toe
 ```
 
